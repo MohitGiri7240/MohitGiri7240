@@ -8,7 +8,7 @@
 
 - 🌱Flutter enthusiast.
 
-- 🔭 Currently working at @Match-Pix.
+- 🔭 Currently working at @Mxpertz-Infolabs.
 - 👯 My Portfolio [My Portfolio](https://drive.google.com/file/d/1h7uGDt1R_PqgKcJifjIrcF6LbGc1HI4T/view?usp=sharing)
 
 - 🤝 College Project [College Project](https://github.com/MohitGiri7240/PLACEMENT-MANAGEMENT-CELL)
