@@ -19,7 +19,29 @@
 
 - 📫 How to reach me **mohitgiri8704@gmail.com**
 
-- 📄 Know about my experiences [[Tech.](Flutter Application Development,Web Development,Java)]([Tech.](Flutter Application Development,Web Development,Java))
+- 📄 Experienced Flutter Developer with 1+ years of expertise in mobile application and web development. Proficient in delivering 4+ live projects across diverse industries, with a strong focus on cross-platform app development, admin panel creation, and backend integration.
+
+Technical Skills:
+
+Mobile Development: Flutter (Android & iOS)
+
+Web Development: HTML, CSS, JavaScript, WordPress (Admin Panels)
+
+Backend Integration: Firebase, REST APIs, PHP APIs
+
+Programming Languages: Dart, Java
+
+Highlights:
+
+Successfully developed and deployed 4+ live applications, including job portals, e-commerce platforms, and gym management systems.
+
+Specialized in building responsive UI/UX, payment gateway integrations, QR code-based check-ins, and rich text editors within Flutter apps.
+
+Hands-on experience with real-time data handling via Firebase and custom backend APIs.
+
+Participated in hackathons and Smart India Hackathon (final round qualifier).
+
+
 
 - ⚡ Fun fact **: Bad programmers worry about the code. Good programmers worry about data structures and their relationships.**
 
