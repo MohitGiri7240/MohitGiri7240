@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Giri</h1>
-<h3 align="center">A passionate Mobile App Developer from Indore Madhya Pradesh, India</h3>
+<h3 align="center">
+Flutter Developer | Mobile & Web Applications | AI Integration | Firebase | REST APIs
+</h3>
 
 
 <img align="right" alt="coding" width="400" src="https://physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif">
@@ -8,38 +10,48 @@
 
 - 🌱Flutter enthusiast.
 
-- 🔭 Currently working at @Velocis System pvt ltd.
+- 🔭 Currently working as an Outsourced Mobile Application Developer for CRIS (Centre for Railway Information Systems), contributing to digital solutions for Indian Railways.
 - 👯 My Portfolio [My Portfolio](https://drive.google.com/file/d/1h7uGDt1R_PqgKcJifjIrcF6LbGc1HI4T/view?usp=sharing)
 
 - 🤝 College Project [College Project](https://github.com/MohitGiri7240/PLACEMENT-MANAGEMENT-CELL)
 
 - 👨‍💻 All of my projects are available at [https://github.com/MohitGiri7240](https://github.com/MohitGiri7240)
 
-- 💬 Ask me about **** Flutter(Mobile App Development), Web Development, Java Programming, Data Structure & Algorithms****
+- 💬 Ask me about Flutter Development, Cross-Platform Mobile & Web Applications, Firebase, REST APIs, AI-Powered Applications, Chatbot Integration, Java, Data Structures & Algorithms, and Software Engineering Best Practices.
 
 - 📫 How to reach me **mohitgiri8704@gmail.com**
 
-- 📄 Experienced Flutter Developer with 1+ years of expertise in mobile application and web development. Proficient in delivering 4+ live projects across diverse industries, with a strong focus on cross-platform app development, admin panel creation, and backend integration.
+- 📄 Experienced Flutter Developer with 2+ years of expertise in building cross-platform mobile and web applications. Successfully delivered multiple live projects across healthcare, railway safety, job portal, fitness, and e-commerce domains. Skilled in Flutter, Firebase, REST APIs, state management, responsive UI/UX, backend integrations, and scalable application development. Currently expanding expertise in Artificial Intelligence, AI model integration, and intelligent chatbot solutions to build smarter user experiences.
 
-Technical Skills:
+### 🛠️ Technical Skills
 
-Mobile Development: Flutter (Android & iOS)
+**• Languages:** Dart, Java
 
-Web Development: HTML, CSS, JavaScript, WordPress (Admin Panels)
+**• Frameworks & State Management:** Flutter, GetX, Provider
 
-Backend Integration: Firebase, REST APIs, PHP APIs
+**• Databases:** Firebase Firestore, Firebase Realtime Database, SQLite, MySQL
 
-Programming Languages: Dart, Java
+**• Backend & APIs:** REST API Integration, Firebase Authentication, PHP APIs, Node.js APIs
 
-Highlights:
+**• Web Development:** HTML, CSS, JavaScript, WordPress (Admin Panels)
 
-Successfully developed and deployed 4+ live applications, including job portals, e-commerce platforms, and gym management systems.
+**• Tools & Cloud:** Git, GitHub, Firebase, AWS, CI/CD, Google Play Store Deployment, Web Deployment
 
-Specialized in building responsive UI/UX, payment gateway integrations, QR code-based check-ins, and rich text editors within Flutter apps.
+**• Core Concepts:** Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA), Database Management Systems (DBMS), MVC Architecture, Responsive UI/UX Design
 
-Hands-on experience with real-time data handling via Firebase and custom backend APIs.
+**• Additional Expertise:** Payment Gateway Integration, Push Notifications, Real-Time Applications, QR Code Systems, Admin Panel Development, Offline Data Handling
 
-Participated in hackathons and Smart India Hackathon (final round qualifier).
+### 🚀 Highlights
+
+✅ Developed and deployed multiple live Flutter applications across different industries.
+
+✅ Worked on railway safety and monitoring solutions involving large-scale data visualization and dashboard systems.
+
+✅ Integrated Firebase, REST APIs, payment gateways, push notifications, and real-time features.
+
+✅ Exploring and implementing AI-powered features, including chatbot development and AI model integration.
+
+✅ Strong understanding of scalable mobile architecture, performance optimization, and modern development practices.
 
 
 
