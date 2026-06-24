@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohit Giri</h1>
 <h3 align="center">
-Flutter Developer | Mobile & Web Applications | AI Integration | Firebase | REST APIs
+Flutter Developer | Mobile App Engineer | CRIS (Indian Railways) | Firebase | REST APIs | Backend Integration
 </h3>
 
 
@@ -10,7 +10,7 @@ Flutter Developer | Mobile & Web Applications | AI Integration | Firebase | REST
 
 - 🌱Flutter enthusiast.
 
-- 🔭 Currently working as an Outsourced Mobile Application Developer for CRIS (Centre for Railway Information Systems), contributing to digital solutions for Indian Railways.
+- 🔭 Currently working as a Mobile Application Developer at CRIS (Centre for Railway Information Systems), contributing to production-grade Indian Railways applications.
 - 👯 My Portfolio [My Portfolio](https://drive.google.com/file/d/1h7uGDt1R_PqgKcJifjIrcF6LbGc1HI4T/view?usp=sharing)
 
 - 🤝 College Project [College Project](https://github.com/MohitGiri7240/PLACEMENT-MANAGEMENT-CELL)
@@ -41,17 +41,20 @@ Flutter Developer | Mobile & Web Applications | AI Integration | Firebase | REST
 
 **• Additional Expertise:** Payment Gateway Integration, Push Notifications, Real-Time Applications, QR Code Systems, Admin Panel Development, Offline Data Handling
 
+### 📱 Live Project Impact
+
+- 🚀 Developed 6–7 production Flutter applications across different domains (Railway, Healthcare, Fitness, Job Portal, E-commerce)
+- 👥 Applications deployed with real-world usage ranging from 10K+ to 100K+ users
+- 📦 4–5 apps successfully deployed on production environments
+- ⚙️ Focus on scalable architecture, performance optimization, and real-time features
+  
 ### 🚀 Highlights
 
-✅ Developed and deployed multiple live Flutter applications across different industries.
-
-✅ Worked on railway safety and monitoring solutions involving large-scale data visualization and dashboard systems.
-
-✅ Integrated Firebase, REST APIs, payment gateways, push notifications, and real-time features.
-
-✅ Exploring and implementing AI-powered features, including chatbot development and AI model integration.
-
-✅ Strong understanding of scalable mobile architecture, performance optimization, and modern development practices.
+- Working on CRIS (Indian Railways) production systems like Kavach (Suraksha) and SMMS
+- Strong experience in Flutter, Firebase, REST APIs, and backend integration
+- Hands-on experience with Java Spring Boot, Node.js, PostgreSQL APIs
+- Solved 300+ GFG and 150+ LeetCode problems
+- Experience in deploying scalable real-world mobile applications
 
 
 
