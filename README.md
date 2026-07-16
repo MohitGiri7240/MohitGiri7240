@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohit Giri</h1>
 <h3 align="center">
-Flutter Developer | Mobile App Engineer | CRIS (Indian Railways) | Firebase | REST APIs | Backend Integration
+🚀 Mobile App & Java Spring Boot Developer
+I'm a Mobile App & Backend Developer with 2+ years of experience building scalable Android and iOS applications using Flutter and Java Spring Boot. My expertise includes REST & GraphQL APIs, Firebase, Google Cloud, MySQL, Clean Architecture, GetX, Provider, and CI/CD pipelines using GitHub Actions and Codemagic. I focus on writing clean, scalable, and maintainable code while delivering high-quality solutions across Healthcare, eCommerce, AI, IoT, and SaaS domains. I'm open to freelance projects, startup collaborations, and long-term development opportunities.
+
 </h3>
 
 
