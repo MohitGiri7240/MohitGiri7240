@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohit Giri</h1>
 
 <h3 align="center">
-🚀 Flutter & Java Spring Boot Developer | Mobile Application Engineer
+🚀 Mobile Application Engineer | Flutter & Kotlin | Java Spring Boot
 </h3>
 
 <p align="center">
